@@ -1,0 +1,20 @@
+{
+  "name": "helocview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "electron": "^35.2.1"
+  },
+  "dependencies": {
+    "@electron/remote": "^2.1.2",
+    "helocview": "file:"
+  }
+}
